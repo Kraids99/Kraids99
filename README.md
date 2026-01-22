@@ -1,7 +1,7 @@
 <h1 align="center">👋🏻 Hi There, I'm Alex!</h1>
 
 <p align="center">
-  🎓 Informatics Student at UAJY | 💻 Software Developer
+  🎓 Informatics Student at UAJY | 🌐 Software Developer
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ Currently, I’m focused on:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://www.instagram.com/alek_wg" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/white" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
 </p>
 
