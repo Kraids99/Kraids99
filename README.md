@@ -15,9 +15,9 @@ Hi! I'm **Alex**, an **Informatics undergraduate student at Universitas Atma Jay
 I’m passionate about **Software Development**, especially in building applications, web development, and exploring new technologies.
 
 Currently, I’m focused on:
-- 🔹 Improving problem-solving and clean code practices  
-- 🔹 Building projects for my portfolio  
-- 🔹 Learning industry-relevant technologies   
+- Improving problem-solving and clean code practices  
+- Building projects for my portfolio  
+- Learning industry-relevant technologies   
 
 ---
 
@@ -40,9 +40,13 @@ Currently, I’m focused on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" width="40"/>
 </p>
 
 ---
