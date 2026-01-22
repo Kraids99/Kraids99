@@ -23,7 +23,7 @@ Currently, I’m focused on:
 
 ## Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/alexanderwongso" target="_blank">
+  <a href="https://www.linkedin.com/in/alexanderwongso" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://www.instagram.com/alek_wg" target="_blank">
