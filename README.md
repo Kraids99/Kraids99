@@ -12,12 +12,12 @@
 
 ## About Me
 Hi! I'm **Alex**, an **Informatics undergraduate student at Universitas Atma Jaya Yogyakarta**.  
-I’m passionate about **Software Development**, especially in building applications, web development, and exploring new technologies.
+I’m passionate about **Software Development**.
 
 Currently, I’m focused on:
-- Improving problem-solving and clean code practices  
+- Improving clean code practices  
 - Building projects for my portfolio  
-- Learning industry-relevant technologies   
+- Learning more and more new technologies   
 
 ---
 
@@ -27,7 +27,7 @@ Currently, I’m focused on:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="https://www.instagram.com/alek_wg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+    <img src="https://cdn.simpleicons.org/instagram/white" width="40"/>
   </a>
 </p>
 
@@ -40,13 +40,13 @@ Currently, I’m focused on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blade/blade-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
 </p>
 
 ---
