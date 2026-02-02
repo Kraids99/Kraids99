@@ -1,4 +1,4 @@
-<img src="https://imgur.com/qQuIttG.gif" alt="GitHub Banner" width="100%">
+<img src="https://i.imgur.com/XoJ0G1y.gif" alt="GitHub Banner" width="100%">
 
 <h1 align="center">👋🏻 Hi There, I'm Alex!</h1>
 
