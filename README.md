@@ -55,6 +55,10 @@ Currently, I’m focused on:
 
 ## Most Used Languages
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kraids99&layout=compact&theme=dark"/> -->
-<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Kraids99](https://github-readme-stats.vercel.app/api?username=anuraghazra)"/>
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Kraids99&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+</picture>
 
